@@ -1,1 +1,1 @@
-# Intro-to-MAGD-github-project
+# This is the edited readme file from the gh-pages branch
